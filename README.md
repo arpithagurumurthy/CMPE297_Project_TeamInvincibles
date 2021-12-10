@@ -27,12 +27,28 @@ It is an AI platform that helps in building a unified ML application by integrat
 
 For large datasets and models as in our case, building a training pipeline by leveraging Vertex AI is the most effective method. The training job on Vertex AI is carried out by packaging the code and creating a training pipeline to orchestrate a training job. The 3 steps we have followed are:
 
-*	Packaging the training code as a Python source distribution
-*	Hyperparameter training job
+*	Packaging the training code as a Python source distribution and submitting the training job to Vertex AI
+
+<img src="" width="400">
+
+*	Hyperparameter training job - We have experimented with hyperparameters such as learning rate and weight decay while fine tuning the BERT model. Below are the results of all the trial runs also showing the best performing model details.
+
+<img src="" width="400">
+
 *	Finally deploying the best model to an endpoint on Vertex AI
 
+<img src="" width="400">
+
 We then serve the fine tuned BERT model predictions on the Streamlit application by using Google Cloud’s ‘aiplatform’ library.
-**Screenshots pending**
+
+* Below is the screenshot of the model showing predictions for Joy:
+
+<img src="" width="400">
+
+* Below is the screenshot of the model showing predictions for anger:
+
+<img src="" width="400">
+
 
 
 
