@@ -3,7 +3,7 @@ CMPE 297 - Deep Learning Special Topics Project
 
 With the rise of social media in recent years, the usage of data for different purposes like election prediction, sentiment analysis, marketing, business, communication has also increased day by day. In this paper we have implemented different language modeling tasks like text classification, sentiment analysis, question answering and summarization. 
 
-## Emotion Classification
+## Emotion Classification with Custom Training on Vertex AI
 
 We have achieved the emotion classification by fine tuning the pretrained BERT model and automated all the required steps of the ML system like data collection, model deployment and serving using GCP and Vertex AI.
 
