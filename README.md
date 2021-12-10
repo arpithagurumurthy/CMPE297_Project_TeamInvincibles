@@ -29,25 +29,25 @@ For large datasets and models as in our case, building a training pipeline by le
 
 *	Packaging the training code as a Python source distribution and submitting the training job to Vertex AI
 
-<img src="" width="400">
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Training_job.png">
 
 *	Hyperparameter training job - We have experimented with hyperparameters such as learning rate and weight decay while fine tuning the BERT model. Below are the results of all the trial runs also showing the best performing model details.
 
-<img src="" width="400">
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Hyperparameter_summary.png">
 
 *	Finally deploying the best model to an endpoint on Vertex AI
 
-<img src="" width="400">
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Deployed_model.png">
 
 We then serve the fine tuned BERT model predictions on the Streamlit application by using Google Cloud’s ‘aiplatform’ library.
 
 * Below is the screenshot of the model showing predictions for Joy:
 
-<img src="" width="400">
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Joy_predictions.png">
 
 * Below is the screenshot of the model showing predictions for anger:
 
-<img src="" width="400">
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Anger_predictions.png">
 
 
 
