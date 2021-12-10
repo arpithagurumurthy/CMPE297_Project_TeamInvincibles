@@ -1,7 +1,13 @@
 # Language Modeling using Vertex AI
 CMPE 297 - Deep Learning Special Topics Project 
 
-With the rise of social media in recent years, the usage of data for different purposes like election prediction, sentiment analysis, marketing, business, communication has also increased day by day. In this paper we have implemented different language modeling tasks like text classification, sentiment analysis, question answering and summarization. 
+With the rise of social media in recent years, the usage of data for different purposes like election prediction, sentiment analysis, marketing, business, communication has also increased day by day. In this paper we have implemented the following language modeling tasks:
+
+**1. Text Classification, Sentiment Analysis**
+
+**2. Question Answering**
+
+**3. Summarization**
 
 ## Emotion Classification with Custom Training on Vertex AI
 
