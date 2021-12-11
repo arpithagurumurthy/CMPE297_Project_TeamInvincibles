@@ -65,6 +65,18 @@ We then serve the fine tuned BERT model predictions on the Streamlit application
 
 <img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/Screenshots/Anger_predictions.png">
 
+**Tensorboard logs when we finetuned the BERT model locally for accuracy, training and validation loss:**
+
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/images/Accuracy.png" width=500>
+
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/images/TrainingLoss.png" width=500>
+
+<img src="https://github.com/arpithagurumurthy/CMPE297_Project_TeamInvincibles/blob/main/images/ValidationLoss.png" width=500>
+
+## References:
+* https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/community-content/pytorch_text_classification_using_vertex_sdk_and_gcloud/pytorch-text-classification-vertex-ai-train-tune-deploy.ipynb
+* https://huggingface.co/datasets/emotion
+
 
 
 
