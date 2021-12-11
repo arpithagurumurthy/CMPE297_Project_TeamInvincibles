@@ -9,6 +9,9 @@ Mayuri Lalwani
 
 Somya Mishra
 
+**Please Note:**
+Foler 'Documents' contain all our the project report, presentation slides and recodings. 
+
 # Language Modeling using Vertex AI
 
 With the rise of social media in recent years, the usage of data for different purposes like election prediction, sentiment analysis, marketing, business, communication has also increased day by day. In this paper we have implemented the following language modeling tasks:
