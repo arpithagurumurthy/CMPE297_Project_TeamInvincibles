@@ -10,7 +10,7 @@ Mayuri Lalwani
 Somya Mishra
 
 **Please Note:**
-Foler 'Documents' contain all our the project report, presentation slides and recodings. 
+Folder '**Documents**' contain our final  project report, presentation slides and project video. 
 
 # Language Modeling using Vertex AI
 
